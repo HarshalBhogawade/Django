@@ -1,3 +1,8 @@
+## Table of content
+- [Django Overview](#django-overview)
+- [Django Quick Install](#django-quick-install)
+- [Writing Your First Django App (Part 1)](write-your-first-django-app-part-1)
+
 # Django Overview
 
 Django is a powerful Python web framework designed to help you build robust, scalable web applications quickly. Below is a beginner-friendly overview of key Django concepts, explained in simple terms, with two important code lines for each topic and a short explanation.
